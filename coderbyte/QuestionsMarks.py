@@ -10,8 +10,8 @@ def QuestionsMarks(str):
         if c != 3:
           return 'false'
         b = 'true'
-        c = 0
-        a = int(i)
+      c = 0
+      a = int(i)
     elif i == '?':
       c += 1
   return b
